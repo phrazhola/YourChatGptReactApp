@@ -1,0 +1,25 @@
+.introduction-box {
+  background-color: #5e808e;
+  opacity: 0.8;
+  box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.11);
+  transition: all 0.3s cubic-bezier(0, 0, 0.5, 1);
+  border-radius: 1rem;
+  min-height: 400px;
+}
+
+.introduction-box:hover {
+  transform: scale(1.01);
+}
+
+.key-word {
+  font-weight: 500;
+  color: #c7c329;
+  font-size: medium;
+}
+
+.json-display {
+  background-color: #072d2d;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  color: #c7c329;
+}
