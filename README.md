@@ -4,7 +4,9 @@ Welcome!
 
 YourChatGPT is a versatile AI chatbot solution that harnesses the capabilities of the ChatGPT API. Crafted to simplify your journey, it enables you to create a tailored ChatGPT clone effortlessly.
 
-Feel free to visit our website to explore a comprehensive introduction and experience a demo of the sample Chatbot in action: [Build Your Own ChatGPT]()
+https://github.com/phrazhola/YourChatGptBackendService/assets/60248040/997e75c4-440c-48ca-bc86-14a773412a52
+
+Feel free to visit our website to explore a comprehensive introduction and experience a demo of the sample Chatbot in action: [Build Your Own ChatGPT](https://build-your-chatgpt.azurewebsites.net)
 
 **Backend package**: https://github.com/phrazhola/YourChatGptBackendService
 
